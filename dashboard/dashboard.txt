@@ -1,6 +1,5 @@
 
 This is my first line of code!
-
 This is my dashboard!
-
 Another line of code!
+Added new functionality!
